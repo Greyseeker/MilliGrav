@@ -1,4 +1,9 @@
-# MilliGrav
+Changes from miligrav original:
+Change-log
++ Purple #9b4dca to Sky Blue #9bcaf0
++ Change SVG to plain-text link
+
+# MilliGrav Sky Blue
 
 MilliGrav is the simple [Grav](http://getgrav.org) theme based on minimalist CSS framework [Milligram](https://milligram.github.io).
 
