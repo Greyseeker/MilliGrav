@@ -1,4 +1,4 @@
-Changes from miligrav original:
+Changes from milliGrav original:
 Change-log
 + Purple #9b4dca to Sky Blue #9bcaf0
 + Change SVG to plain-text link
