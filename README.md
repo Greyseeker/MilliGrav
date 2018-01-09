@@ -1,8 +1,3 @@
-Changes from milliGrav original:
-Change-log
-+ Changed darkorchid ( #9b4dca ) to Sky Blue ( #9bcaf0 )
-+ Changes SVG to a plain-text link
-
 # MilliGrav Sky Blue
 
 MilliGrav is the simple [Grav](http://getgrav.org) theme based on minimalist CSS framework [Milligram](https://milligram.github.io).
