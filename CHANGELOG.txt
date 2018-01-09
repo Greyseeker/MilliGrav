@@ -1,6 +1,0 @@
-Changelog 2018/1/7:
-+ Fixed Meta data call function for Grav. Returns metadata.
-
-Changelog 2018/1/7:
-+ Changed darkorchid ( #9b4dca ) to Sky Blue ( #9bcaf0 )
-+ Changes SVG to a plain-text link
